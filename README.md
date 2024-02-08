@@ -1,2 +1,2 @@
 # cardiovascular-llm
-LLM based on cardiocascular research paper.
+LLM based on cardiovascular research paper.
